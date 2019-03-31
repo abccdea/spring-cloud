@@ -1,0 +1,10 @@
+me/wangzuowen/springcloud/order/domain/repository/OrderRepository.class
+me/wangzuowen/springcloud/order/domain/service/OrderService.class
+me/wangzuowen/springcloud/order/domain/config/JpaConfiguration.class
+me/wangzuowen/springcloud/order/domain/entity/Order.class
+me/wangzuowen/springcloud/order/domain/repository/OrderDetailRepository.class
+me/wangzuowen/springcloud/order/domain/config/DruidConfiguration.class
+me/wangzuowen/springcloud/order/domain/entity/OrderDetail.class
+me/wangzuowen/springcloud/order/domain/service/OrderService$1.class
+me/wangzuowen/springcloud/order/domain/util/CommonUtils.class
+me/wangzuowen/springcloud/order/domain/util/CopyUtil.class

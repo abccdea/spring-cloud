@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: orderweb
+
+  cloud:
+    config:
+      uri: http://localhost:8888
+
+  rabbitmq:
+    addresses: amqp://localhost:5672
+    username: guest
+    password: guest
+
+encrypt:
+  failOnError: false

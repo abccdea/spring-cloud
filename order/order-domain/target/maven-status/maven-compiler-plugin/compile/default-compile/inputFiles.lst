@@ -1,0 +1,9 @@
+/Users/hank/Desktop/order/order-domain/src/main/java/me/wangzuowen/springcloud/order/domain/util/CopyUtil.java
+/Users/hank/Desktop/order/order-domain/src/main/java/me/wangzuowen/springcloud/order/domain/repository/OrderRepository.java
+/Users/hank/Desktop/order/order-domain/src/main/java/me/wangzuowen/springcloud/order/domain/util/CommonUtils.java
+/Users/hank/Desktop/order/order-domain/src/main/java/me/wangzuowen/springcloud/order/domain/service/OrderService.java
+/Users/hank/Desktop/order/order-domain/src/main/java/me/wangzuowen/springcloud/order/domain/entity/OrderDetail.java
+/Users/hank/Desktop/order/order-domain/src/main/java/me/wangzuowen/springcloud/order/domain/config/JpaConfiguration.java
+/Users/hank/Desktop/order/order-domain/src/main/java/me/wangzuowen/springcloud/order/domain/repository/OrderDetailRepository.java
+/Users/hank/Desktop/order/order-domain/src/main/java/me/wangzuowen/springcloud/order/domain/config/DruidConfiguration.java
+/Users/hank/Desktop/order/order-domain/src/main/java/me/wangzuowen/springcloud/order/domain/entity/Order.java
